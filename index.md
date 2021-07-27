@@ -213,7 +213,7 @@
 		  return d;
 		}
 
-		d3.csv("titanic_surv.csv.csv", type, render);
+		d3.csv("gb_surv.csv", type, render);
 		
 	  </script>
 	  <div class="infobox" style = "visibility: hidden;">
